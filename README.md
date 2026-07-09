@@ -16,7 +16,7 @@
 | 🎓 **Degree** | B.Tech — CSE (Information Security) |
 | 📊 **CGPA** | **9.68** |
 | 🥉 **Branch Rank** | **3rd Rank** in CSE (Info Sec) |
-| 📧 **Email** | [bhoomi.vijay2023@vitstudent.ac.in](mailto:bhoomi.vijay2023@vitstudent.ac.in) |
+| 📧 **Email** | [bhoomivijay2006@gmail.com](mailto:bhoomivijay2006@gmail.com) |
 | 📱 **Phone** | +91 8107805242 |
 | 💼 **Internship** | Software Developer Intern @ Pixel Tech Pvt. Ltd. |
 
@@ -38,7 +38,7 @@
   </a>
 </p>
 <p>
-  <a href="mailto:bhoomi.vijay2023@vitstudent.ac.in">
+  <a href="mailto:bhoomivijay2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -57,15 +57,25 @@
 
 - 🎓 **Education:** B.Tech CSE (**Information Security**) @ **VIT Vellore** — CGPA **9.68**, **3rd Rank** in branch
 - 🛠️ **Currently:** Building full-stack apps, exploring Gen AI workflows, and sharpening my security mindset
-- ⚔️ **Focus Areas:** Full-Stack Development · Generative AI · Cybersecurity
-- 🌐 **Tech Stack:** React, Next.js, TypeScript, Node.js, Python, FastAPI, Tailwind CSS, MongoDB & more
+- ⚔️ **Focus Areas:** Full-Stack Development · Generative AI · Cybersecurity (SIEM, IDS & incident response)
+- 🌐 **Tech Stack:** C, C++, Python, Java, JavaScript, TypeScript, React, Next.js, FastAPI, Flask, Node.js, Tailwind CSS, MongoDB, SQL & more
 - 🧠 **Interests:** Smart-city analytics, scalable backends, ethical AI, and secure system design
 - 🚀 **Experience:** Software Developer Intern @ **Pixel Tech Pvt. Ltd.** — API validation, backend optimization & Git workflows
 - 🏗️ **Projects:** [CityWatch](https://github.com/bhoomivijay/citywatchproject) (smart-city analytics) · [VitEase](https://github.com/bhoomivijay/VitEase) (campus data portal)
-- 🏅 **Certifications:** GEN AI Using IBM Watsonx · AWS Solutions Architecture Job Simulation
+- 🏅 **Certifications:** Google Cybersecurity Professional Certificate · GEN AI Using IBM Watsonx · AWS Solutions Architecture Job Simulation
 - 🏸 **Extracurriculars:** State-level badminton player · U&I NGO volunteer · Student Placement Coordinator
 - 🤝 **Open to:** Collaborations on full-stack, AI-powered, and security-focused projects
 - 📖 **2025 Goals:** Ship impactful open-source tools, deepen cloud & security skills, and contribute to real-world problem solving
+
+---
+
+## 🎖️ Certifications
+
+| Certification | Focus |
+|---------------|-------|
+| **Google Cybersecurity Professional Certificate** (Jun 2026) | Linux, Python, SQL, SIEM, IDS, incident response & security operations |
+| **GEN AI Using IBM Watsonx** (Jun 2025) | Generative AI workflows, prompt engineering & ethical AI |
+| **AWS Solutions Architecture Job Simulation** (Jun 2025) | Scalable cloud architectures for real-world client scenarios |
 
 ---
 
@@ -108,7 +118,7 @@
 
 <h3 align="center">💻 Full-Stack & Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,fastapi,flask,mongodb,firebase" alt="Full-stack stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,nodejs,react,nextjs,fastapi,flask,mongodb,firebase,mysql" alt="Full-stack stack" />
 </p>
 
 <h3 align="center">🎨 Frontend & UI</h3>
