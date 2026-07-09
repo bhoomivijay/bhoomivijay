@@ -83,15 +83,3 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhoomivijay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/bhoomivijay/bhoomivijay/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
-<p align="center">⭐ Show some ❤️ by starring some of my repositories!</p>
