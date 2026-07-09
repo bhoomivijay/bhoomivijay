@@ -51,14 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-gamma.vercel.app/?username=bhoomivijay&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</p>
-
----
-
 ## 📚 My Tech Stack
 
 <h3 align="center">💻 Full-Stack & Backend</h3>
