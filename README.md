@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Vijay</h1>
-<h3 align="center">A passionate CSE (Info Sec) student, Full-Stack Developer & Cybersecurity Enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate CSE (Info Sec) student, Full-Stack</h3>
 
 ---
 
@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhoomivijay&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-gamma.vercel.app/?username=bhoomivijay&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ---
