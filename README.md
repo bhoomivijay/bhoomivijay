@@ -1,81 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Vijay</h1>
-<h3 align="center">CSE (Information Security) @ VIT Vellore · Full-Stack Developer · Cybersecurity Enthusiast 🇮🇳</h3>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 Personal Details
-
-| | |
-|---|---|
-| 📍 **Location** | Vellore, Tamil Nadu |
-| 🏫 **College** | VIT Vellore |
-| 🎓 **Degree** | B.Tech — CSE (Information Security) |
-| 📊 **CGPA** | **9.68** |
-| 🥉 **Branch Rank** | **3rd Rank** in CSE (Info Sec) |
-| 📧 **Email** | [bhoomivijay2006@gmail.com](mailto:bhoomivijay2006@gmail.com) |
-| 📱 **Phone** | +91 8107805242 |
-| 💼 **Internship** | Software Developer Intern @ Pixel Tech Pvt. Ltd. |
-
-**Beyond code:** State-level badminton player · U&I NGO volunteer · Student Placement Coordinator @ VIT
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 Links
-
-<p>
-  <a href="https://www.linkedin.com/in/bhoomivijay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/bhoomivijay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-<p>
-  <a href="mailto:bhoomivijay2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-**Schooling**
-- Class 12 (CBSE) — **92.2%** @ Alwar Public School
-- Class 10 (CBSE) — **95.6%** @ Alwar Public School
-
-</td>
-</tr>
-</table>
+<h3 align="center">A passionate CSE (Info Sec) student, Full-Stack Developer & Cybersecurity Enthusiast from India 🇮🇳</h3>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 **Education:** B.Tech CSE (**Information Security**) @ **VIT Vellore** — CGPA **9.68**, **3rd Rank** in branch
+- 🎓 **Education:** B.Tech CSE (**Information Security**) @ **VIT Vellore** — **3rd Rank** in branch, CGPA **9.68**
 - 🛠️ **Currently:** Building full-stack apps, exploring Gen AI workflows, and sharpening my security mindset
-- ⚔️ **Focus Areas:** Full-Stack Development · Generative AI · Cybersecurity (SIEM, IDS & incident response)
-- 🌐 **Tech Stack:** C, C++, Python, Java, JavaScript, TypeScript, React, Next.js, FastAPI, Flask, Node.js, Tailwind CSS, MongoDB, SQL & more
-- 🧠 **Interests:** Smart-city analytics, scalable backends, ethical AI, and secure system design
+- ⚔️ **Cybersecurity:** Google Cybersecurity Certified — SIEM, IDS, incident response & security operations
+- 🌐 **Technical Skills:** React, Next.js, TypeScript, Node.js, Python, FastAPI, Flask, Tailwind CSS, MongoDB, SQL & more
+- 🧠 **Interests:** Smart-city analytics, Generative AI, ethical AI, and secure system design
 - 🚀 **Experience:** Software Developer Intern @ **Pixel Tech Pvt. Ltd.** — API validation, backend optimization & Git workflows
 - 🏗️ **Projects:** [CityWatch](https://github.com/bhoomivijay/citywatchproject) (smart-city analytics) · [VitEase](https://github.com/bhoomivijay/VitEase) (campus data portal)
-- 🏅 **Certifications:** Google Cybersecurity Professional Certificate · GEN AI Using IBM Watsonx · AWS Solutions Architecture Job Simulation
-- 🏸 **Extracurriculars:** State-level badminton player · U&I NGO volunteer · Student Placement Coordinator
-- 🤝 **Open to:** Collaborations on full-stack, AI-powered, and security-focused projects
+- 🏅 **Certifications:** Google Cybersecurity Professional Certificate · GEN AI Using IBM Watsonx · AWS Solutions Architecture
+- 🏸 **Beyond Code:** State-level badminton player · U&I NGO volunteer · Student Placement Coordinator @ VIT
+- 🤝 **Open to:** Collaborations on full-stack, AI-powered, and cybersecurity projects
 - 📖 **2025 Goals:** Ship impactful open-source tools, deepen cloud & security skills, and contribute to real-world problem solving
-
----
-
-## 🎖️ Certifications
-
-| Certification | Focus |
-|---------------|-------|
-| **Google Cybersecurity Professional Certificate** (Jun 2026) | Linux, Python, SQL, SIEM, IDS, incident response & security operations |
-| **GEN AI Using IBM Watsonx** (Jun 2025) | Generative AI workflows, prompt engineering & ethical AI |
-| **AWS Solutions Architecture Job Simulation** (Jun 2025) | Scalable cloud architectures for real-world client scenarios |
 
 ---
 
@@ -129,6 +69,22 @@
 <h3 align="center">🛠️ Tools, Data & Security</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,postman,vscode,jupyter" alt="Tools stack" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhoomivijay" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bhoomivijay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:bhoomivijay2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
