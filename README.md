@@ -23,7 +23,7 @@
 <p align="center"><i>"Build, Break, Secure — Then Build Better."</i> 🔐</p>
 
 <p align="center">
-  <img src="./assets/coding-workspace.svg" alt="Developer workspace illustration" width="100%" />
+  <img src="https://raw.githubusercontent.com/bhoomivijay/bhoomivijay/main/assets/coding-workspace.svg" alt="Developer workspace illustration" width="100%" />
 </p>
 
 ---
