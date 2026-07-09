@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Vijay</h1>
-<h3 align="center">A passionate CSE (Info Sec) student, Full-Stack</h3>
+<h3 align="center">A passionate Computer Science student, Full-Stack Developer and Cybersecurity Enthusiast</h3>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 **Education:** B.Tech CSE (**Information Security**) @ **VIT Vellore** — **3rd Rank** in branch, CGPA **9.68**
+- 🎓 **Education:** B.Tech CSE (**Information Security**) @ **VIT Vellore** — **3rd Rank** with CGPA **9.68**
 - 🛠️ **Currently:** Building full-stack apps, exploring Gen AI workflows, and sharpening my security mindset
 - ⚔️ **Cybersecurity:** Google Cybersecurity Certified — SIEM, IDS, incident response & security operations
 - 🌐 **Technical Skills:** React, Next.js, TypeScript, Node.js, Python, FastAPI, Flask, Tailwind CSS, MongoDB, SQL & more
@@ -16,6 +16,7 @@
 - 🏸 **Beyond Code:** State-level badminton player · U&I NGO volunteer · Student Placement Coordinator @ VIT
 - 🤝 **Open to:** Collaborations on full-stack, AI-powered, and cybersecurity projects
 - 📖 **2025 Goals:** Ship impactful open-source tools, deepen cloud & security skills, and contribute to real-world problem solving
+- 📈 **July 2026 Contributions:** **11** total on GitHub
 
 ---
 
@@ -28,6 +29,10 @@
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/July%202026%20Contributions-11-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="July 2026 contributions" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhoomivijay&theme=2077" height="180" alt="Profile summary" />
