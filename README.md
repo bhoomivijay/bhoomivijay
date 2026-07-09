@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhoomivijay&theme=2077" height="180" alt="Profile summary" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomivijay&show_icons=true&theme=radical&hide_border=true&count_private=false&include_all_commits=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomivijay&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats" />
 </p>
 
 <p align="center">
