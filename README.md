@@ -76,8 +76,8 @@
   <a href="https://www.linkedin.com/in/bhoomivijay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/bhoomivijay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="tel:+918107805242">
+    <img src="https://img.shields.io/badge/Phone-%2B91%208107805242-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
   <a href="mailto:bhoomivijay2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
