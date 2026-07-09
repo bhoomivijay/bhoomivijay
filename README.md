@@ -14,9 +14,6 @@
 - 🏗️ **Projects:** [CityWatch](https://github.com/bhoomivijay/citywatchproject) (smart-city analytics) · [VitEase](https://github.com/bhoomivijay/VitEase) (campus data portal)
 - 🏅 **Certifications:** Google Cybersecurity Professional Certificate · GEN AI Using IBM Watsonx · AWS Solutions Architecture
 - 🏸 **Beyond Code:** State-level badminton player · U&I NGO volunteer · Student Placement Coordinator @ VIT
-- 🤝 **Open to:** Collaborations on full-stack, AI-powered, and cybersecurity projects
-- 📖 **2025 Goals:** Ship impactful open-source tools, deepen cloud & security skills, and contribute to real-world problem solving
-- 📈 **July 2026 Contributions:** **11** total on GitHub
 
 ---
 
@@ -25,10 +22,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/July%202026%20Contributions-11-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="July 2026 contributions" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhoomivijay&theme=2077" height="180" alt="Profile summary" />
